@@ -35,7 +35,8 @@ portfolio/
 ---
 
 ## 📂 プロジェクト
-### 1. [SmartToDo アプリ](projects/SmartToDo/README.md)[Uploading キムジウン.pptx…]()
+### 1. [SmartToDo アプリ](projects/SmartToDo/README.md)
+[Uploading キムジウン.pptx…]()
 
 - **概要**: To-Doリスト管理アプリケーションで、Firebaseを使用したクラウド同期機能を提供。
 - **使用技術**: Java, Android Studio, Firebase
