@@ -26,7 +26,7 @@ portfolio/
 
 ## 🧑‍💻 プロフィール
 - **名前**: キムジウン
-- **学歴**: 長崎外国語大学 国際コミュニケーション学科 在籍
+  
 - **スキル**:
   - プログラミング: Java, Python, HTML/CSS, JavaScript
   - ツール: Git, Docker, Firebase
